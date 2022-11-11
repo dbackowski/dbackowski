@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dbackowski" alt="dbackowski" /></a> </p>
 
-- 🔭 I’m currently working on [Chargify](https://chargify.com)
+- 🔭 I’m currently working on [Maxio](https://maxio.com)
 
 - 📫 How to reach me **damianbackowski@gmail.com**
 
